@@ -32,5 +32,5 @@ Bearings: https://nl.aliexpress.com/item/1005005511187974.html?spm=a2g0o.product
 **ESP:** https://www.amazon.com.be/-/nl/NodeMCU-ESP-WROOM-32-ontwikkelingskaart-Bluetooth-microcontroller/dp/B0DB8CYQBS/ref=sr_1_5?sr=8-5
 €12.98
 
-Estimated total price: 
+Estimated total price: €123.54
 **Note:** I might have forgotten some components. These links are all for Belgium or Netherlands and are NOT referral links.
