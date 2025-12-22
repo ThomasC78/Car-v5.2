@@ -16,3 +16,5 @@ The project starts at version 5.2 because it went through multiple offline hardw
 Transmitter ESP code
 
 Receiver ESP code
+
+Components required
