@@ -11,10 +11,7 @@ The project starts at version 5.2 because it went through multiple offline hardw
 
 **Contents**
 
-3D printable files
-
-Transmitter ESP code
-
-Receiver ESP code
-
-Components required
+* 3D printable files
+* Transmitter ESP code
+* Receiver ESP code
+* Components required
